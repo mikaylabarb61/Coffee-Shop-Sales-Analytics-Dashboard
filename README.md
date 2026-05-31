@@ -52,8 +52,7 @@ This project analyzes 2023 coffee shop sales data using Tableau and Excel. The o
 
 * Tableau Workbook (.twbx)
 * Dashboard Screenshots
-* Project Summary
-* Dataset (if permitted)
+* Dataset 
 
 ## Results
 
